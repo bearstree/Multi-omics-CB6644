@@ -1,6 +1,6 @@
 # CB6644 Multi-omics Showcase
 
-Command-first RNA-seq and ATAC-seq analysis for RPMI8226 multiple-myeloma cells treated with CB6644 versus DMSO.
+Command-first RNA-seq and ATAC-seq analysis for RPMI8226/MM.1S multiple-myeloma cells treated with CB6644 versus DMSO.
 
 ## Dataset
 
