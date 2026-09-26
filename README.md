@@ -23,3 +23,7 @@ Confirm accessions in [config/samples.tsv](config/samples.tsv), then set genome 
 ## Scope
 
 Commands are documented but not executed here. Do not commit sequencing files, alignments, generated results, or genome references.
+
+## Related Publication
+
+- [Molecular Signatures of CB-6644 Inhibition of the RUVBL1/2 Complex in Multiple Myeloma]([https://doi.org/YOUR_DOI](https://www.mdpi.com/1422-0067/25/16/9022))
