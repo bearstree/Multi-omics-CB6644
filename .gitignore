@@ -15,3 +15,6 @@ results/*
 .snakemake/
 *.Rhistory
 __pycache__/
+docs/provenance.md
+docs/superpowers/
+.codex-progress.md
