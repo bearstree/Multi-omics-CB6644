@@ -1,0 +1,17 @@
+data/
+work/
+results/*
+!results/.gitkeep
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.sam
+*.bedGraph
+*.bigWig
+*.bw
+*.sra
+*.log
+.snakemake/
+*.Rhistory
+__pycache__/

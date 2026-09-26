@@ -1,0 +1,3 @@
+name: multiomics-rnaseq
+channels: [conda-forge, bioconda]
+dependencies: [fastqc, multiqc, fastp, star, samtools, subread, r-base, bioconductor-edger]

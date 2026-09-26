@@ -1,0 +1,13 @@
+sample_id	assay	cell_line	treatment	dose_nm	duration_hr	replicate	layout	gsm	srr	fastq_r1	fastq_r2	available
+GD830	RNA-seq	RPMI8226	CB6644	40	72	A	SE					true
+GD831	RNA-seq	RPMI8226	CB6644	40	72	B	SE					true
+GD832	RNA-seq	RPMI8226	CB6644	40	72	C	SE					true
+GD833	RNA-seq	RPMI8226	DMSO	0	72	A	SE					true
+GD834	RNA-seq	RPMI8226	DMSO	0	72	B	SE					true
+GD835	RNA-seq	RPMI8226	DMSO	0	72	C	SE					true
+GD773	ATAC-seq	RPMI8226	CB6644	40	72	A	PE					true
+GD774	ATAC-seq	RPMI8226	CB6644	40	72	B	PE					true
+GD762	ATAC-seq	RPMI8226	CB6644	40	72	C	PE					true
+GD763	ATAC-seq	RPMI8226	DMSO	0	72	A	PE					true
+GD764	ATAC-seq	RPMI8226	DMSO	0	72	B	PE					true
+GD765	ATAC-seq	RPMI8226	DMSO	0	72	C	PE					false

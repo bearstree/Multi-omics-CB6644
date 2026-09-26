@@ -1,0 +1,14 @@
+configfile: "config/config.yaml"
+
+include: "workflow/rules/download.smk"
+include: "workflow/rules/rnaseq.smk"
+include: "workflow/rules/atacseq.smk"
+include: "workflow/rules/enrichment.smk"
+include: "workflow/rules/integration.smk"
+
+rule all:
+    input:
+        "results/rnaseq/README.txt",
+        "results/atac/README.txt",
+        "results/enrichment/README.txt",
+        "results/integration/README.txt"

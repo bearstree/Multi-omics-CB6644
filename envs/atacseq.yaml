@@ -1,0 +1,3 @@
+name: multiomics-atacseq
+channels: [conda-forge, bioconda]
+dependencies: [fastqc, multiqc, bowtie2, samtools, macs3, bedtools, deeptools, r-base, bioconductor-edger]

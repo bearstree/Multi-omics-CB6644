@@ -1,0 +1,22 @@
+genome_build: hg38
+genome_index: /path/to/hg38/index
+annotation_gtf: /path/to/gencode.vXX.annotation.gtf
+chrom_sizes: /path/to/hg38.chrom.sizes
+
+thresholds:
+  min_count: 10
+  log2fc: 1
+  fdr: 0.01
+  macs3_qvalue: 0.05
+
+tools:
+  aligner_rna: STAR
+  aligner_atac: bowtie2
+  differential_expression: edgeR
+  differential_accessibility: edgeR
+
+paths:
+  data: data
+  work: work
+  results: results
+  references: references
